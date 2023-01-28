@@ -96,7 +96,7 @@ async def start(client, message):
                     InlineKeyboardButton('⤬ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ⤬', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
                     InlineKeyboardButton('♚ Gʀᴏᴜᴘ▫️', url=GRP_LNK),
-                    InlineKeyboardButton('⌬ Gʀᴏᴜᴘ 2▪️, url="https://t.me/moviecenter226)
+                    InlineKeyboardButton('⌬ Gʀᴏᴜᴘ 2▪️', url="https://t.me/moviecenter226")
                 ],[
                     InlineKeyboardButton('〄 Hᴇʟᴘ', callback_data='help'),
                     InlineKeyboardButton('⍟ Aʙᴏᴜᴛ', callback_data='about')
