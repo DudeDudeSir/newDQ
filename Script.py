@@ -183,13 +183,12 @@ Nᴀᴍᴇ - {}"""
 
 <b>
 ╭─────── • ◆ • ───────╮
-🔅 Dᴀʀᴋ Mᴏᴅᴇ :  <a href="https://t.me/moviecenter225">Tᴏᴜᴄʜ</a>
+🔅 JOIN OUR Cʜᴀɴɴᴇʟ :  <a href="https://t.me/moviecenter225">Tᴏᴜᴄʜ</a>
 ╰─────── • ◆ • ───────╯
-
-=========== • ✠ • ===========
-▫️ ᴄʜᴀɴɴᴇʟ : @DQ_The_File_Donor_Updates
-▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : @DQ_The_File_Donor_Support
-=========== • ✠ • ===========</b>"""
+╔════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ═════╗
+♻️ 𝙅𝙊𝙄𝙉 :- @moviecenter225
+♻️ 𝙅𝙊𝙄𝙉 :- @moviecenter225
+╚════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ═════╝</b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {query}
